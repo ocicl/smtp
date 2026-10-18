@@ -1,0 +1,13 @@
+* smtp
+
+An SMTP client and MIME message builder: STARTTLS and implicit TLS with
+certificate verification, AUTH, PIPELINING, CHUNKING, SMTPUTF8 and DSN,
+connection pooling, DKIM signing, and direct delivery with MX lookup.
+
+Unrelated to cl-smtp; the system names do not overlap.
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/lispnik/smtp.git               |
+| commit  | 0000000                                               |
+| systems | smtp smtp/core smtp/pure-tls smtp/dkim smtp/delivery  |
+|---------+-------------------------------------------------------|
