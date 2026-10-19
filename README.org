@@ -8,6 +8,6 @@ Unrelated to cl-smtp; the system names do not overlap.
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/lispnik/smtp.git               |
-| commit  | 6d3dc5a                                               |
+| commit  | e3adbe1                                               |
 | systems | smtp smtp/core smtp/pure-tls smtp/dkim smtp/delivery  |
 |---------+-------------------------------------------------------|
